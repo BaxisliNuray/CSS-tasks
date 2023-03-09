@@ -1,0 +1,35 @@
+.Victoria {
+    color:rgb(21, 173, 173);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:47px;
+    margin-top: 1;
+}
+.coloredword{
+    color: yellow;
+}
+.my{
+    color:rgb(21, 173, 173);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+}
+#italic{
+    color: white;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.white {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+a:visited {
+    color: red;
+}
+.images{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+.i{
+    font-style: italic;
+}

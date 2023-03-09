@@ -1,0 +1,46 @@
+#Title1 {
+    color: rgb(184, 64, 64);
+}
+
+#Title2 {
+    background-color: bisque;
+}
+#Title3 {
+    border-left: 1px solid brown;
+}
+
+#div1 {
+    color: rgba(0, 128, 0, 0.747);
+    margin-bottom: 20px;
+}
+
+#div2 {
+    border-bottom: 2px solid brown;
+    margin-bottom: 20px;
+}
+
+#div3 {
+    border: 2px dashed black;
+    margin-bottom: 20px;
+}
+
+#div4 {
+    background-color: blue;
+    color: darkblue;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+#div5 {
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+#submit {
+    border-radius: 10px;
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+    box-sizing: border-box 20px 30px;
+    padding: 10px 25px;
+}
